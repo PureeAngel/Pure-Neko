@@ -1,1 +1,1 @@
-{"token":"NTYxOTA4NjgwMTMyMzk1MDE5.XKDOBw.p1bcSoBwzWe76gflc4Ggqi4YHJw","client":"561908680132395019","tag":"!","case":"true","separator":"\\s+","ownerId":""}
+bot.login(process.env.token);
